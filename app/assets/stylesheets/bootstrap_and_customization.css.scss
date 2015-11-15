@@ -5,3 +5,14 @@ $navbar-inverse-bg: #ecf0f1;
 $navbar-inverse-link-color: #2c3e50;
 
 @import 'bootstrap';
+
+.carousel-caption {
+    background-color: rgba(0,0,0,0.75);
+    border-radius: 20px;
+    color: #ecf0f1;
+}
+
+.item {
+    width: 100%;
+    height: auto;
+}
